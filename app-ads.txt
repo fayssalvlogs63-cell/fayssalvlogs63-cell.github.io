@@ -847,3 +847,5 @@ zmaticoo.com, 5135195, RESELLER
 appnexus.com, 17779, RESELLER
 appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
 netmarvel.com, 1011828, RESELLER, ca3509163a633862
+bigo.sg, adidz3dyfp, RESELLER
+rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
