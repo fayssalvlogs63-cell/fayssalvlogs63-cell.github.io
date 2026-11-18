@@ -850,3 +850,5 @@ netmarvel.com, 1011828, RESELLER, ca3509163a633862
 bigo.sg, adidz3dyfp, RESELLER
 rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
 yandex.com, 335019945, DIRECT
+pubnative.net, 1018435, RESELLER, d641df8625486a7b
+appnexus.com, 18183, RESELLER, f5ab79cb980f11d1
