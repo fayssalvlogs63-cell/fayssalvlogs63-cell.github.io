@@ -855,4 +855,4 @@ appnexus.com, 18183, RESELLER, f5ab79cb980f11d1
 smaato.com, 1100060389, RESELLER, 07bcf65f187117b4
 adingo.jp, 34964, RESELLER*
 adingo.jp, 34964, RESELLER
-vungle.com, 6aff65d68a4ab1588b4bec9, DIRECT, c1077d6866bec2d77
+vungle.com, 6aff65d68a4ab1588b4becb9, DIRECT, c107d686becd2d77
