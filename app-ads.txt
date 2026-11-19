@@ -854,3 +854,4 @@ pubnative.net, 1018435, RESELLER, d641df8625486a7b
 appnexus.com, 18183, RESELLER, f5ab79cb980f11d1
 smaato.com, 1100060389, RESELLER, 07bcf65f187117b4
 adingo.jp, 34964, RESELLER*
+adingo.jp, 34964, RESELLER
