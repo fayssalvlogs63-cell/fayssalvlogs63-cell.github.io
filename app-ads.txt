@@ -856,3 +856,5 @@ smaato.com, 1100060389, RESELLER, 07bcf65f187117b4
 adingo.jp, 34964, RESELLER*
 adingo.jp, 34964, RESELLER
 vungle.com, 6aff65d68a4ab1588b4becb9, DIRECT, c107d686becd2d77
+pubnative.net, 1018439, RESELLER, d641df8625486a7b
+smaato.com, 1100060686, RESELLER, 07bcf65f187117b4
